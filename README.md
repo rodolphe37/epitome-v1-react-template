@@ -23,12 +23,6 @@
 
 ---
 
-## Demo
-
-### Live Site Demo
-
-Demo: [Link]()
-
 ### Picture Demo
 
 ![demopng](epitome-v1.png)
