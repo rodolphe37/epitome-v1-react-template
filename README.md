@@ -71,7 +71,7 @@ Full responsive for all mobile phones and tablets
 ## Start project
 -Clone this repo (https://github.com/rodolphe37/epitome-v1-react-template.git)
 -Make in the console :
--    ```cd Abstract-v1-react```
+-    ```cd epitome-v1-react-template```
 -    ``` npm i``` or ```npm install ```
 for install the dependencies and 
 -    ```npm start```
