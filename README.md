@@ -69,8 +69,8 @@ Full responsive for all mobile phones and tablets
 -StyleShout.com
 
 ## Start project
--Clone this repo (https://github.com/rodolphe37/epitome-v1-react-template.git)
--Make in the console :
+- Clone this repo (https://github.com/rodolphe37/epitome-v1-react-template.git)
+- Make in the console :
 -    ```cd epitome-v1-react-template```
 -    ``` npm i``` or ```npm install ```
 for install the dependencies and 
